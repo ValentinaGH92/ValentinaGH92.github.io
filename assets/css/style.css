@@ -1,0 +1,29 @@
+body {
+  font-family: "arial", sans-serif;
+}
+
+.img-fluid{
+  border-radius: 50%;
+}
+
+#Hero-Section {
+  background-image: url("/assets/img/header.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 750px;
+}
+
+#contacto{
+  text-align: center;
+}
+
+.carousel-item{
+  width: 100%;
+}
+
+section{
+  text-align: center;
+  padding: 50px;
+  margin: 30px;
+}
